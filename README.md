@@ -3,7 +3,7 @@ ReuseDistancePintool
 
 Pintool to collect reuse distance profiles for multi-threaded programs.
 
-Primary author: Derek Schuff, dschuff@gmail.com
+Primary author: Derek Schuff, dschuff@gmail.com  
 Seconday author / maintainer: Abhisek Pan, abhisekpan@gmail.com.
 
 Publications:
