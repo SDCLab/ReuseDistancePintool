@@ -4,7 +4,7 @@ ReuseDistancePintool
 Pintool to collect reuse distance profiles for multi-threaded programs.
 
 Primary author: Derek Schuff, derek.schuff@gmail.com  
-Seconday author / maintainer: Abhisek Pan, abhisekpan@gmail.com.
+Maintainer: Abhisek Pan, abhisekpan@gmail.com.
 
 Publications:
 + Derek L. Schuff, Milind Kulkarni, and Vijay S. Pai. 2010. Accelerating multicore reuse distance analysis with sampling and parallelization. 
