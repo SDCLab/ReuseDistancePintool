@@ -34,5 +34,6 @@ From the PinReuseDistance directory, do e.g. the following:
     ../../../pin -t obj-intel64/reusedistance.so -o output.txt -s shared -- ~/binaries/ft.A
 where:
 + '-t' is the pintool to run (reusedistance.so is full analysis), 
-+ '-o' is the output file name, '-s' is the stack type (shared or private are the options), 
++ '-o' is the output file name, 
++ '-s' is the stack type (shared or private are the options), 
 + the '--' separates the pin and pintool options  from the target binary (ft.A). Any options after the target binary will go to the binary and not to pin or the pintool.
