@@ -17,7 +17,7 @@ Prerequisites
 -------------
 The following software is needed (in parentheses are the names of the Debian/Ubuntu packages which contain them).
 + GCC with a recent g++, and make (gcc, g++, make)
-+ everal of the boost libraries (libboost-dev)
++ Several of the boost libraries (libboost-dev)
 
 Building
 --------
